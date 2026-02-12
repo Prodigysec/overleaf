@@ -31,7 +31,7 @@
         <mockito.version>5.20.0</mockito.version>
         <aws.java.sdk.version>2.41.7</aws.java.sdk.version>
         <jakarta.xml.bind.api.version>${jaxb.runtime.version}</jakarta.xml.bind.api.version>
-        <jaxb.runtime.version>2.3.2</jaxb.runtime.version>
+        <jaxb.runtime.version>2.3.9</jaxb.runtime.version>
         <httpclient.version>4.5.14</httpclient.version>
         <commons.io.version>2.21.0</commons.io.version>
         <commons.compress.version>1.28.0</commons.compress.version>
